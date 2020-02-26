@@ -1,0 +1,11 @@
+2020-02-26 13:28:17,512(YYYY-MM-DD HH:mm:ss) DEBUG Simpleintrestcompoundintrest.class(1):12 - simple interest120.0
+2020-02-26 19:42:45,062(YYYY-MM-DD HH:mm:ss) DEBUG Simpleintrestcompoundintrest.class(1):12 - simple interest10.0
+2020-02-26 19:42:45,070(YYYY-MM-DD HH:mm:ss) DEBUG Simpleintrestcompoundintrest.class(1):24 - compound interest1223.9999771118164
+2020-02-26 20:02:27,717(YYYY-MM-DD HH:mm:ss) DEBUG HouseRent.class(1):25 - House Rent :2400.0
+2020-02-26 20:02:27,721(YYYY-MM-DD HH:mm:ss) DEBUG HouseRent.class(1):25 - House Rent :3000.0
+2020-02-26 20:02:27,722(YYYY-MM-DD HH:mm:ss) DEBUG HouseRent.class(1):25 - House Rent :3600.0
+2020-02-26 21:16:42,384(YYYY-MM-DD HH:mm:ss) DEBUG Simpleintrestcompoundintrest.class(1):11 - simple interest10.0
+2020-02-26 21:16:42,389(YYYY-MM-DD HH:mm:ss) DEBUG Simpleintrestcompoundintrest.class(1):23 - compound interest1223.9999771118164
+2020-02-26 21:16:52,464(YYYY-MM-DD HH:mm:ss) DEBUG HouseRent.class(1):25 - House Rent :2400.0
+2020-02-26 21:16:52,468(YYYY-MM-DD HH:mm:ss) DEBUG HouseRent.class(1):25 - House Rent :3000.0
+2020-02-26 21:16:52,468(YYYY-MM-DD HH:mm:ss) DEBUG HouseRent.class(1):25 - House Rent :3600.0
